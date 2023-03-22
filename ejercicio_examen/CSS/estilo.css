@@ -1,0 +1,53 @@
+/* Estilos */
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+background-color:#efa4cb ;
+font-size: 18px;
+color:#f8fafb;
+font-style:italic;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+ div {
+   border-radius: 4px;
+   box-sizing: border-box;
+ }
+ .azul {
+background-color: #f8fafb ;
+width: 80%;
+max-width: 1200px;
+margin: 0 auto;
+padding: 20px;
+ }
+ .menta {
+     background-color: #8ce4e0 ;
+     width: 100%;
+     padding: 20px;
+     margin: 5px 0;
+     display: inline-block;
+     
+ } 
+.claro {
+background-color: #9987f4;
+width: 35%;
+padding: 20px;
+margin: 5px 0;
+display: inline-block;
+
+}
+.marino {
+background-color: #94cdf6;
+width: 50%;
+padding: 20px;
+margin: 5px 0;
+display: inline-block;
+}
+img {
+  width: 40%;
+  height: auto;
+}
+
+
+
